@@ -3,12 +3,14 @@
 
 
 ## parte 3 hecha por:
--Tobías Pasinato
+
+- Tobías Pasinato
 
 ## Integrantes del grupo
--Nicolas Caliari
--Tobias Pasinato
--Luciano javier Lucero
+
+- Tobias Pasinato
+- Nicolas Caliari
+- Luciano Javier Lucero
 
 ## Proyecto: Contador de numeros / Mostrar numeros primos.
 ![Tinkercad](./img/img_part1.jpeg)
