@@ -1,5 +1,5 @@
 # Parcial 1 UTN SPD
-![Tinkercad](img_portada.jpeg)
+![Tinkercad](./img/img_portada.jpeg)
 
 
 ## parte 3 hecha por:
@@ -11,10 +11,10 @@
 -Luciano javier Lucero
 
 ## Proyecto: Contador de numeros / Mostrar numeros primos.
-![Tinkercad](img_part1.jpeg)
-![Tinkercad](img_part2.jpeg)
-![Tinkercad](img_part2_modif.jpeg)
-![Tinkercad](img_part3.jpeg)
+![Tinkercad](./img/img_part1.jpeg)
+![Tinkercad](./img/img_part2.jpeg)
+![Tinkercad](./img/img_part2_modif.jpeg)
+![Tinkercad](./img/img_part3.jpeg)
 
 
 ## Descripción
